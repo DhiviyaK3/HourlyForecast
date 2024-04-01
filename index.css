@@ -1,0 +1,21 @@
+.forecast-widget {
+  text-align: center;
+  margin: 10px;
+}
+
+.hourly-forecast {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  text-align: center;
+
+}
+
+.hourly-item {
+  width: 50px;
+  margin: 10px;
+  padding: 10px;
+  padding-left: 630px;
+  border-radius: 1 px;
+  text-align: center;
+}
